@@ -1,3 +1,4 @@
+///Dev Alain G.Z
 const colorButton = document.getElementById("ColorButton")
 
 function cambiarColor(){
